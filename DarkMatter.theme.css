@@ -1,7 +1,7 @@
  .app-2CXKsg  {
     background-image: url('https://cdn.discordapp.com/attachments/1019959256138666069/1088657494399778896/w4zpnHX.jpg');
     home-image: url('https://cdn.discordapp.com/attachments/1019959256138666069/1088657494399778896/w4zpnHX.jpg');
-    background-image: var(--background-image);
+    background-image: var(background-image);
     background-repeat: repeat;
     background-size: cover;
     background-color: transparent;
